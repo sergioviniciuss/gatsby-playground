@@ -1,7 +1,11 @@
 import React from "react"
 
-const product = () => {
-  return <div>this is our product page</div>
+const Product = () => {
+  return (
+    <div>
+      <h1>this is our product page</h1>
+    </div>
+  )
 }
 
-export default product
+export default Product
